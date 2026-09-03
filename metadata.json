@@ -1,0 +1,8 @@
+{
+  "name": "OpenLiberty",
+  "description": "3D Open World sandbox experience with 3D vehicle physics, 3rd-person chase camera, dynamic lighting, radio, and RenderWare asset inspector in Jetpack Compose",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
